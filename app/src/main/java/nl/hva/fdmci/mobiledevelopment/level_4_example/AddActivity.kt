@@ -1,3 +1,5 @@
+package nl.hva.fdmci.mobiledevelopment.level_4_example
+
 import android.app.Activity
 import android.content.Intent
 import android.os.Bundle
